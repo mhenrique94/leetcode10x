@@ -1,6 +1,6 @@
 # leetcode10x
 
-LeetCode exercises primarily resolved on python and javascript.
+LeetCode exercises primarily resolved in python and javascript.
 <br>[Platform here](https://leetcode.com/problemset/all/).
 
 <br> How to execute each exercise:
@@ -41,3 +41,6 @@ python <filename>.py
 7. [easy] [javascript] [771] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
    <br>Runtime: 68 ms, faster than 79.97% of JavaScript online submissions for Jewels and Stones.
    <br>Memory Usage: 41.5 MB, less than 99.52% of JavaScript online submissions for Jewels and Stones.
+8. [medium] [python] [2161] [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
+   <br>Runtime: 1425 ms, faster than 92.15% of Python3 online submissions for Partition Array According to Given Pivot.
+   <br>Memory Usage: 31.6 MB, less than 34.54% of Python3 online submissions for Partition Array According to Given Pivot.
