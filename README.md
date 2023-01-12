@@ -38,3 +38,6 @@ python <filename>.py
 6. [easy] [javascript] [1480] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
    <br>Runtime: 66 ms, faster than 81.44% of JavaScript online submissions for Running Sum of 1d Array.
    <br>Memory Usage: 42.8 MB, less than 20.16% of JavaScript online submissions for Running Sum of 1d Array.
+7. [easy] [javascript] [771] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+   <br>Runtime: 68 ms, faster than 79.97% of JavaScript online submissions for Jewels and Stones.
+   <br>Memory Usage: 41.5 MB, less than 99.52% of JavaScript online submissions for Jewels and Stones.
