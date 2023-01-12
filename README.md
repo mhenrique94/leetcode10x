@@ -35,3 +35,6 @@ python <filename>.py
 5. [easy] [python] [1108] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
    <br>Runtime: 34 ms, faster than 71.37% of Python3 online submissions for Defanging an IP Address.
    <br>Memory Usage: 13.8 MB, less than 94.49% of Python3 online submissions for Defanging an IP Address.
+6. [easy] [javascript] [1480] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+   <br>Runtime: 66 ms, faster than 81.44% of JavaScript online submissions for Running Sum of 1d Array.
+   <br>Memory Usage: 42.8 MB, less than 20.16% of JavaScript online submissions for Running Sum of 1d Array.
