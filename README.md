@@ -44,3 +44,6 @@ python <filename>.py
 8. [medium] [python] [2161] [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)
    <br>Runtime: 1425 ms, faster than 92.15% of Python3 online submissions for Partition Array According to Given Pivot.
    <br>Memory Usage: 31.6 MB, less than 34.54% of Python3 online submissions for Partition Array According to Given Pivot.
+9. [medium] [javascript] [2442] [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)
+   <br>Runtime: 308 ms, faster than 81.15% of JavaScript online submissions for Count Number of Distinct Integers After Reverse Operations.
+   <br>Memory Usage: 74.5 MB, less than 73.46% of JavaScript online submissions for Count Number of Distinct Integers After Reverse Operations.
