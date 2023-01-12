@@ -2,7 +2,23 @@
 
 LeetCode exercises primarily resolved on python and javascript.
 <br>[Platform here](https://leetcode.com/problemset/all/).
-<br><br>[Complexity level] [Language] [Exercise's number on platform] Exercise's title
+
+<br> How to execute each exercise:
+<br>
+<br> For Javascript:
+
+```
+node <filename>.js
+```
+
+<br> For Python:
+
+```
+python <filename>.py
+```
+
+<br>How to read this list:
+<br>[Complexity level] [Language] [Exercise's number on platform] Exercise's title
 <br> [Results]
 <br><br>List:
 
@@ -16,3 +32,6 @@ LeetCode exercises primarily resolved on python and javascript.
 4. [easy] [javascript] [2469] [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
    <br>Runtime: 74 ms, faster than 61.55% of JavaScript online submissions for Convert the Temperature.
    <br>Memory Usage: 41.6 MB, less than 92.04% of JavaScript online submissions for Convert the Temperature.
+5. [easy] [python] [1108] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+   <br>Runtime: 34 ms, faster than 71.37% of Python3 online submissions for Defanging an IP Address.
+   <br>Memory Usage: 13.8 MB, less than 94.49% of Python3 online submissions for Defanging an IP Address.
