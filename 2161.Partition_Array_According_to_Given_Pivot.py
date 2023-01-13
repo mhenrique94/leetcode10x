@@ -43,7 +43,7 @@ pivot equals to an element of nums.
     # pivoted_array.append(pivot)
     # for n in nums:
     #   if n <= pivot:
-    #     pivoted_array.insert((pivoted_array.index(pivot)), n)
+        # pivoted_array.insert((pivoted_array.index(pivot)), n)
     #   else:
     #     pivoted_array.append(n)
 

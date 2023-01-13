@@ -51,3 +51,6 @@ python <filename>.py
     <br>Runtime: 330 ms, faster than 48.13% of JavaScript online submissions for Maximum Gap.
     <br>Memory Usage: 60.1 MB, less than 43.75% of JavaScript online submissions for Maximum Gap.
 11. [hard] [python] [2514] [Count Anagrams](https://leetcode.com/problems/count-anagrams/)
+12. [medium] [python] [371] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+    <br>Runtime: 35 ms, faster than 67.03% of Python3 online submissions for Sum of Two Integers.
+    <br>Memory Usage: 13.8 MB, less than 59.39% of Python3 online submissions for Sum of Two Integers.

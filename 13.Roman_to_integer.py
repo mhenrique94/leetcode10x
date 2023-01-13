@@ -60,8 +60,8 @@ class Solution:
                     if each_roman[0] == next_related:
                         return each_roman
             except:
-                a = ('z', 0)
-                return a
+                alternative = ('z', 0)
+                return alternative
 
         count = 0
 

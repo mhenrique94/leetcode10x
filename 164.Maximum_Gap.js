@@ -42,4 +42,3 @@ var maximumGap = function (nums) {
 };
 
 console.log(maximumGap([100, 3, 2, 1]));
-console.log(maximumGap([3, 6, 9, 1]));
