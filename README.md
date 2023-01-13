@@ -47,3 +47,7 @@ python <filename>.py
 9. [medium] [javascript] [2442] [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)
    <br>Runtime: 308 ms, faster than 81.15% of JavaScript online submissions for Count Number of Distinct Integers After Reverse Operations.
    <br>Memory Usage: 74.5 MB, less than 73.46% of JavaScript online submissions for Count Number of Distinct Integers After Reverse Operations.
+10. [hard] [javascript] [164] [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+    <br>Runtime: 330 ms, faster than 48.13% of JavaScript online submissions for Maximum Gap.
+    <br>Memory Usage: 60.1 MB, less than 43.75% of JavaScript online submissions for Maximum Gap.
+11. [hard] [python] [2514] [Count Anagrams](https://leetcode.com/problems/count-anagrams/)
